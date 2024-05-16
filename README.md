@@ -20,6 +20,6 @@ Hardware and Firmware of Arcade Controller Based RP2040 as Microcontroller and G
 </p>
 
 # Documentation 
-- [Dimension](https://github.com/GSPETech/SensorV4_RS485_CAN_TCP_ESP32/blob/main/DOC/Dimension_SENSORv4.pdf)
+- [Dimension](https://github.com/juarendra/Arcade_Controller_GP2040/blob/main/3D/Dimension_arcadeController.pdf)
 - [BOM](https://github.com/GSPETech/SensorV4_RS485_CAN_TCP_ESP32/blob/main/BOM/SensorV4-ESP32.csv)
 
