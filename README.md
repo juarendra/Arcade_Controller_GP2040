@@ -19,7 +19,15 @@ Hardware and Firmware of Arcade Controller Based RP2040 as Microcontroller and G
   <img src="DOC/arcadeController_3.png" width="50%" height="50%">
 </p>
 
+# Pinout
+## Pinout RP2040
+<p align="center">
+  <img src="DOC/PINOUT_RP2040.png" width="50%" height="50%">
+</p>
+
 # Documentation 
 - [Dimension](https://github.com/juarendra/Arcade_Controller_GP2040/blob/main/3D/Dimension_arcadeController.pdf)
 - [BOM](https://github.com/juarendra/Arcade_Controller_GP2040/blob/main/DOC/bom.csv)
+- [Pinout RP2040](https://github.com/juarendra/Arcade_Controller_GP2040/blob/main/DOC/Arcade_Controller_GP2040_Pinout.pdf)
+
 
