@@ -17,9 +17,9 @@ Hardware and Firmware of Arcade Controller Based RP2040 as Microcontroller and G
   <img src="DOC/arcadeController_1.png" width="50%" height="50%">
   <img src="DOC/arcadeController_2.png" width="50%" height="50%">
   <img src="DOC/arcadeController_3.png" width="50%" height="50%">
-  <img src="DOC/arcadeController_4.png" width="50%" height="50%">
-  <img src="DOC/arcadeController_5.png" width="50%" height="50%">
-  <img src="DOC/arcadeController_6.png" width="50%" height="50%">
+  <img src="DOC/arcadeController_4.jpeg" width="50%" height="50%">
+  <img src="DOC/arcadeController_5.jpeg" width="50%" height="50%">
+  <img src="DOC/arcadeController_6.jpeg" width="50%" height="50%">
 </p>
 
 # Pinout
